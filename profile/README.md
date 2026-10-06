@@ -1,3 +1,3 @@
-# Welcome to Potosi
+# Welcome to Potosi ⛰️
 
 Potosi builds minimalist softwares
