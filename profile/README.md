@@ -5,4 +5,4 @@ Nosso trabalho combina planejamento de capacidade e custos, implantação técni
 Entre em contato:
 
 - Site: https://potosi.dev
-- E-mail: potosi@cicolas.dev (mailto:potosi@cicolas.dev)
+- E-mail: contato@potosi.dev (mailto:contato@potosi.dev)
